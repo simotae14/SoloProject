@@ -1,0 +1,29 @@
+Hello!
+This is Potato, a new multi-disciplinary design studio. We are a couple (in life and on work) a fullstack developer and a designer who love discovering different levels of design. 
+Our range of design service ensuring comprehensive design solutions
+
+siamo versatili e stiamo bene con tutto, come le patate del resto!
+
+
+We are focused on website and graphic design, and we specialize in identity – providing logo and symbol design and artistic direction, print and collateral design.
+Our range of design service ensuring comprehensive design solutions
+
+siamo versatili e stiamo bene con tutto, come le patate del resto!
+
+Hello!
+This is Potato, a new multi-disciplinary design studio. We are a couple (in life and on work) a fullstack developer and a designer, we are really conscientious workers with a strong work ethic.
+We ensure a wide range of design services and comprehensive design solutions, focused on website and graphic design, and we specialize in identity – providing logo and symbol design and artistic direction, print and collateral design.
+
+During our work experience we have learnt how important is to be mentally flexible and focus efforts to reach the goals. We are open to and willing to learn whatever is necessary to accomplish our client’s goals
+
+Potato cannot wait to enjoy to learn and sprout new ideas and gain experiences!
+
+Thank you, we look forward to work with you!
+
+
+ html5, css3, bootstrap 3, materializecss, JavaScript e jquery. Linguaggi di backend Ruby e il framework rails. Linguaggi di programmazione conosciuti: groovy, python, ruby. Database MySQL, mongodb
+
+ Hello! 
+This is Potato, a new multi-disciplinary design studio. We are a couple (in life and on work) a fullstack developer and a designer, we are really conscientious workers with a strong work ethic. 
+We ensure a wide range of design services and comprehensive design solutions, focused on website and graphic design. 
+Potato cannot wait to enjoy to learn and sprout new ideas and gain experiences!
