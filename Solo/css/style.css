@@ -1,18 +1,5 @@
-/* Basic CSS Selectors Examples */
-
-h1 {
-  color: green;
-  font-size: 45px;
-}
-
-p {
-  background-color: pink;
-  color: #fff;
-  font-size: 20px;
-}
-
-div p {
-  background-color: red;
-  color: #000;
-  font-size: 40px;
-}
+/* ---------------------------------------
+   Default Theme
+   ---------------------------------------
+   Fonts: Raleway & Open Sans
+----------------------------------------*/
