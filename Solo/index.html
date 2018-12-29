@@ -31,10 +31,32 @@
       <div id="status">&nbsp;</div>
     </div>
 
-    <!-- Example Markup -->
-    <h1>
-      Welcome To Solo!
-    </h1>
+    <!-- Home -->
+    <section id="home">
+      <!-- Background video -->
+      <video
+        id="home-bg-video"
+        poster="video/solo.jpg"
+        autoplay
+        loop
+        muted
+      >
+        <source
+          src="video/solo.mp4"
+          type="video/mp4"
+        >
+        <source
+          src="video/solo.ogv"
+          type="video/ogg"
+        >
+        <source
+          src="video/solo.webm"
+          type="video/webm"
+        >
+      </video>
+      <!-- Overlay -->
+      <div id="home-overlay"></div>
+    </section>
 
     <!-- JQuery -->
     <script src="js/jquery.js"></script>
