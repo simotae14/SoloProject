@@ -1,73 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- important metatags -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Title -->
-    <title>Solo - Creative Website</title>
+<head>
+  <!-- important metatags -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon/favicon.ico">
+  <!-- Title -->
+  <title>Solo - Creative Website</title>
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="img/favicon/favicon.ico">
 
-    <!-- Fontawesome -->
-    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.css">
+  <!-- Fontawesome -->
+  <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/style.css">
-  </head>
-  <body>
-    <!-- Preloader -->
-    <div id="preloader">
-      <div id="status">&nbsp;</div>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap/bootstrap.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="status">&nbsp;</div>
+  </div>
+
+  <!-- Home -->
+  <section id="home">
+    <!-- Background video -->
+    <video id="home-bg-video" poster="video/solo.jpg" autoplay loop muted>
+      <source src="video/solo.mp4" type="video/mp4">
+      <source src="video/solo.ogv" type="video/ogg">
+      <source src="video/solo.webm" type="video/webm">
+    </video>
+    <!-- Overlay -->
+    <div id="home-overlay"></div>
+    <!-- Home Content -->
+    <div id="home-content">
+      <div id="home-content-inner" class="text-center">
+        <div id="home-heading">
+          <h1 id="home-heading-1">
+            Digital
+          </h1>
+          <br>
+          <h1 id="home-heading-2">
+            Creative <span>Agency</span>
+          </h1>
+        </div>
+        <div id="home-text">
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt veritatis laboriosam debitis maiores quisquam possimus aut illo. Enim eveniet est aliquid eum, illo neque, quisquam magni adipisci officiis eos natus?
+          </p>
+        </div>
+        <div id="home-btn">
+          <a
+            class="btn btn-general btn-home"
+            href="#about"
+            title="Start Now"
+            role="button"
+          >Start now</a>
+        </div>
+      </div>
     </div>
+    <!-- Arrow Down -->
+    <a href="#about" id="arrow-down">
+      <i class="fa fa-angle-down"></i>
+    </a>
+  </section>
 
-    <!-- Home -->
-    <section id="home">
-      <!-- Background video -->
-      <video
-        id="home-bg-video"
-        poster="video/solo.jpg"
-        autoplay
-        loop
-        muted
-      >
-        <source
-          src="video/solo.mp4"
-          type="video/mp4"
-        >
-        <source
-          src="video/solo.ogv"
-          type="video/ogg"
-        >
-        <source
-          src="video/solo.webm"
-          type="video/webm"
-        >
-      </video>
-      <!-- Overlay -->
-      <div id="home-overlay"></div>
-    </section>
 
-    <!-- Temporary space -->
-    <section><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></section>
 
-    <!-- JQuery -->
-    <script src="js/jquery.js"></script>
 
-    <!-- Bootstrap JS -->
-    <script src="js/bootstrap/bootstrap.js"></script>
 
-    <!-- Custom JS -->
-    <script src="js/script.js"></script>
-    </body>
+  <!-- Temporary space -->
+  <section><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></section>
+
+  <!-- JQuery -->
+  <script src="js/jquery.js"></script>
+
+  <!-- Bootstrap JS -->
+  <script src="js/bootstrap/bootstrap.js"></script>
+
+  <!-- Custom JS -->
+  <script src="js/script.js"></script>
+</body>
+
 </html>
